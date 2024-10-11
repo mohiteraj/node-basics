@@ -1,0 +1,20 @@
+{
+  "name": "clear",
+  "version": "9.9.9",
+  "description": "this is package",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "clear"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cryptr": "^6.3.0",
+    "nodemon": "^3.1.7"
+  }
+}
